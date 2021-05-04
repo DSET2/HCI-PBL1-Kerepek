@@ -1,2 +1,4 @@
 # HCI-PBL1-Kerepek
-Responsive website for HCI PBL1
+Group Members:
+1. Haikal
+2. Ridwan
