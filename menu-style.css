@@ -1,0 +1,39 @@
+h1{
+   background-color: #00227b;
+   color: white;
+   text-align: center;
+}
+
+body{
+     background-color: #3949AB;
+}
+
+.container {
+            background-color:#6e74dc;
+            display:flex;
+            flex-wrap:wrap;
+            justify-content:center;
+}
+
+.container div a{
+               color: white;
+               text-decoration:none;
+               height:auto;
+               width:auto;
+               text-align:center;
+               line-height:50px;
+               margin:50px;
+               padding:10px 15px;
+}
+
+.container div a:hover{
+                       background-color: #00227b;
+}
+
+.img-style{
+           display: block;
+           margin-left: auto;
+           margin-right: auto;
+           height:25%;
+           width:25%;
+}
