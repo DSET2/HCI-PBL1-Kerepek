@@ -1,0 +1,31 @@
+h3{
+   color:white;
+   text-align:center;
+}
+
+.whatsApp img{
+              height:40px;
+              width:40px;
+}
+
+.whatsApp{
+          text-align:center;
+          color:white;
+}
+
+.facebook img{
+              height:40px;
+              width:40px;
+}
+
+.facebook{
+          text-align:center;
+}
+
+.facebook a{
+            color:white;
+}
+
+.content-style{
+               background-color:#00227b;
+}
